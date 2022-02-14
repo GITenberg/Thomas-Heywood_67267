@@ -1,0 +1,38 @@
+_repo: Thomas-Heywood_67267
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Symonds, John Addington
+    alias: Symonds, J. A. (John Addington)
+    birthdate: 1840
+    deathdate: 1893
+    gutenberg_agent_id: '1504'
+    url: http://www.gutenberg.org/2009/agents/1504
+    wikipedia: https://en.wikipedia.org/wiki/John_Addington_Symonds
+creator:
+  author:
+    agent_name: Heywood, Thomas
+    gutenberg_agent_id: '54184'
+    url: http://www.gutenberg.org/2009/agents/54184
+  editor:
+    agent_name: Verity, Arthur Wilson
+    gutenberg_agent_id: '54185'
+    url: http://www.gutenberg.org/2009/agents/54185
+description: ''
+gutenberg_issued: '2022-01-28'
+identifiers:
+  gutenberg: '67267'
+language: en
+pgterms:marc904: https://archive.org/details/thomasheywood00heywiala
+pgterms:marc905: 20220124111200heywood
+pgterms:marc906: '1888'
+pgterms:marc907: UK
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: UK :VIZETELLY & CO.,1888.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Thomas Heywood
+url: http://www.gutenberg.org/ebooks/67267
