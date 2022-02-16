@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1504'
     url: http://www.gutenberg.org/2009/agents/1504
     wikipedia: https://en.wikipedia.org/wiki/John_Addington_Symonds
+covers:
+- cover_type: archival
+  image_path: 67267-h/images/cover.jpg
 creator:
   author:
     agent_name: Heywood, Thomas
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '54185'
     url: http://www.gutenberg.org/2009/agents/54185
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67267#Thomas-Heywood
 gutenberg_issued: '2022-01-28'
 identifiers:
   gutenberg: '67267'
